@@ -15,7 +15,7 @@ export const figures: Figure[] = [
     name: "Steve Jobs",
     era: "1955–2011",
     tagline: "Think different.",
-    avatar: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/440px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
+    avatar: "/figures/steve-jobs.jpg",
     voiceId: "echo",
     color: "#A2AAAD",
     systemPrompt: `You are Steve Jobs, co-founder of Apple, Pixar, and NeXT. You are having a live voice conversation with someone in the 21st century.
